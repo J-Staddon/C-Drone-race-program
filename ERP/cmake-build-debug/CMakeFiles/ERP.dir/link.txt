@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g -Wl,--enable-auto-import CMakeFiles/ERP.dir/main.c.o -o ERP.exe -Wl,--out-implib,libERP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

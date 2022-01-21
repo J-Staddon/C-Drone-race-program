@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/jayst/Documents/University/CS23820/CDP/function.h
+
+/cygdrive/c/Users/jayst/Documents/University/CS23820/CDP/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+function.h
+/cygdrive/c/Users/jayst/Documents/University/CS23820/CDP/function.h
+
